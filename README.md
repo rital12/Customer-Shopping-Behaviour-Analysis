@@ -180,7 +180,7 @@ This project showcases an end-to-end Business Intelligence workflow, beginning w
 
 ## 👤 Author
 
-**Kunal Hiwase**
+**Rital R. Burile**
 
 - 💼 Business Analyst
 - 📊 SQL | Excel | Power BI | Python
